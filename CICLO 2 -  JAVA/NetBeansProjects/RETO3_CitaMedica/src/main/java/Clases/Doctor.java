@@ -7,7 +7,7 @@ package Clases;
 
 /**
  *
- * @author FABIAN
+ * @author FABIAN <fabian.jovalle at gmail.com>
  */
 public class Doctor extends Usuario{
     private String especialidad;

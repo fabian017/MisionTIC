@@ -6,8 +6,8 @@
 package Clases;
 
 /**
- *
- * @author FABIAN
+ * 
+ * @author FABIAN <fabian.jovalle at gmail.com>
  */
 public class Paciente extends Usuario{
     private String fechaNac;
