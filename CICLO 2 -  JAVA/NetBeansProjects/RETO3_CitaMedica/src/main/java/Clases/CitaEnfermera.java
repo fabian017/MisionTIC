@@ -63,6 +63,4 @@ public class CitaEnfermera {
     public void setTiempo(String tiempo) {
         this.tiempo = tiempo;
     }
-    
-    
 }
