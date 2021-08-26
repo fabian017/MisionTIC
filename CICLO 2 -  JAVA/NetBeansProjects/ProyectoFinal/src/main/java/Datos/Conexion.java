@@ -17,7 +17,7 @@ public class Conexion {
     // JDBC DRIVER JAVA CON MYSQL
     private static final String JDBC_URL="jdbc:mysql://localhost:3307/bd_campeonato_g27?useSSL=false&useTimezone=true&serverTimezone=UTC&allowPublicKeyRetrieval=true";
     private static final String JDBC_USER="root";
-    private static final String JDBC_PASSWORD = "Thiago_017-2010";
+    private static final String JDBC_PASSWORD = "12345";
     
     public static DataSource getDataSource(){
        BasicDataSource ds =  new BasicDataSource();
